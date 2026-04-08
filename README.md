@@ -1,0 +1,1 @@
+multimodalgradio_final.py 실행
